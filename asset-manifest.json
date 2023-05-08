@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Popcornflix/static/css/main.d10d0237.css",
+    "main.js": "/Popcornflix/static/js/main.8ed4b9e8.js",
+    "static/js/787.8bae8e75.chunk.js": "/Popcornflix/static/js/787.8bae8e75.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Popcornflix/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/404-Error-0.jpg": "/Popcornflix/static/media/404-Error-0.4d35ce5a0bda0b41036e.jpg",
+    "static/media/fa-brands-400.ttf": "/Popcornflix/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Popcornflix/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Popcornflix/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Popcornflix/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Popcornflix/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Popcornflix/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Popcornflix/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/Photo-unavailable.webp": "/Popcornflix/static/media/Photo-unavailable.dc8063cf876972942ce6.webp",
+    "index.html": "/Popcornflix/index.html",
+    "main.d10d0237.css.map": "/Popcornflix/static/css/main.d10d0237.css.map",
+    "main.8ed4b9e8.js.map": "/Popcornflix/static/js/main.8ed4b9e8.js.map",
+    "787.8bae8e75.chunk.js.map": "/Popcornflix/static/js/787.8bae8e75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d10d0237.css",
+    "static/js/main.8ed4b9e8.js"
+  ]
+}
