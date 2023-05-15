@@ -83,6 +83,8 @@ async function sendLoginData(obj){
         </button> : <button disabled={!formik.isValid } type='submit' className='btn btn-outline-info fw-bolder'>Login</button> }
         <h5 className='text-muted  py-4'>New To Popcornflix ? <Link className='text-decoration-none' to={'/register'}><span className='text-muted signIn '>Register</span></Link></h5>
 
+
+  <h4>test</h4>
         </form>
     </div>
   
